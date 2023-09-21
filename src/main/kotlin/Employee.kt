@@ -8,7 +8,7 @@ class Employee(var employeeName:String,
         println("Name: $employeeName\nEmployeeID Number: $employeeNum\nEmployee Shift Data: $employeeShift")
     }
 
-
+var x = compass.WEST
 
 
 
